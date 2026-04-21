@@ -1,0 +1,61 @@
+📌 Overview
+This project showcases an end-to-end E-commerce Sales Analysis Dashboard built using Microsoft Excel.
+It involves data cleaning, transformation, analysis, and visualization using advanced Excel functionalities like Pivot Tables, Conditional Formatting, and Lookup Functions.
+The dashboard provides actionable insights into sales performance, customer behavior, and regional trends.
+
+🎯 Objective
+To analyze raw e-commerce transaction data
+To perform data cleaning and preprocessing
+To extract meaningful business insights
+To build an interactive and visually appealing dashboard
+
+🛠️ Tools & Techniques Used
+Microsoft Excel
+Pivot Tables & Pivot Charts
+IF Function
+VLOOKUP / XLOOKUP
+Sorting & Filtering
+Conditional Formatting
+Data Cleaning Techniques
+
+🔧 Data Processing & Analysis Steps
+📊 Data Transformation:
+Calculated Total Revenue (Quantity × Price)
+Computed Average Order Value
+Handled missing discount values
+Removed duplicate Order_ID records
+Split Customer_Name using Text to Columns
+
+🔍 Data Analysis:
+Counted number of orders by Region
+Classified orders as 'High Value' (Price > 2000) using IF function
+Sorted data by Price (Highest to Lowest)
+Filtered Cancelled Orders
+
+🎨 Data Enhancement:
+Applied Conditional Formatting to highlight Discount > 5%
+Used VLOOKUP/XLOOKUP to fetch product details
+
+📊 Pivot Tables Created
+📌 Sales by Category
+📌 Sales by Region & Payment Mode
+
+📈 Dashboard Features
+📊 Total Sales Overview
+🧾 Total Orders Count
+🏆 Top Performing Category
+🌍 Region-wise Sales Analysis
+📉 Interactive charts (Bar, Line, Pie)
+🎛️ Dynamic filtering using slicers
+
+📊 Key Insights
+Identified top-performing product categories
+Analyzed regional sales distribution
+Evaluated high-value customer orders
+Observed impact of discounts on sales
+Tracked cancelled orders and patterns
+
+📷 Dashboard Preview:
+
+
+
